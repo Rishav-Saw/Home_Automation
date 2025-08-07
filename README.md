@@ -2,7 +2,7 @@
 A voice-controlled home automation application
 
 
-[App Construction Logic](App intructions.jpeg)
+[App Construction Logic](App instructions.jpeg)
 
 [App Interface](App.jpeg)
 
